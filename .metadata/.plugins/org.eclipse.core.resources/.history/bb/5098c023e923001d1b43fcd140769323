@@ -1,0 +1,28 @@
+package com.struts2practice.bean;
+
+public class User {
+	private String name;
+	private String city;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setUser(String user) {
+		this.name = user;
+	}
+
+	public String getCity() {
+		return city;
+	}
+
+	public void setCity(String city) {
+		this.city = city;
+	}
+
+	@Override
+	public String toString() {
+		return "User [user=" + name + ", city=" + city + "]";
+	}
+
+}

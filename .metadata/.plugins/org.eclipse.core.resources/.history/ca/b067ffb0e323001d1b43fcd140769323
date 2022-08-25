@@ -1,0 +1,5 @@
+package com.struts2practice.bean;
+
+public class User {
+
+}

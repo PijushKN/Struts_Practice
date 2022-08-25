@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\Java Workspace\Struts2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1367913331.index
+\struts2practice\src\main\resources
