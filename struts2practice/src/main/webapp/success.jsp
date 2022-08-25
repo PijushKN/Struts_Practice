@@ -10,7 +10,10 @@
 <body>
 	Welcome <s:property value="user.name" /><br>
 	 
-	City <s:property value="user.city" />
+	City <s:property value="user.city" /><br>
+	<b>Request: </b><%=request %><br>
+	<b>Response: </b><%=response %>
+	
 	
 </body>
 </html>

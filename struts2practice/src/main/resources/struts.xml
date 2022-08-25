@@ -2,7 +2,7 @@
 <!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts  
 Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
 <struts>
-	<constant name="struts.custom.i18n.resources" value="package" />
+	<!-- <constant name="struts.custom.i18n.resources" value="package" /> -->
 	<package name="default" extends="struts-default">
 
 		<action name="login"
